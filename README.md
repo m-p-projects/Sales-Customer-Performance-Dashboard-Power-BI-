@@ -69,14 +69,6 @@ Efficiency: Automated the reporting workflow, reducing the manual effort require
 
 Insight Discovery: Uncovered seasonal trends in specific product categories, allowing for better inventory management during peak periods.
 
-7. Repository Structure
-
-Casestudy 14 FINAL PROJECT.pbix: The primary Power BI source file.
-
-Dashboard_Presentation.pdf: A walkthrough of the key visual pages.
-
-/assets: Screenshots demonstrating the Data Model view and primary report pages.
-
-8. Usage
+7. Usage
 
 To explore the interactivity, download the .pbix file and open it in Power BI Desktop. For a quick overview, please refer to the visual assets in the /assets folder.
