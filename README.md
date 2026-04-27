@@ -1,4 +1,3 @@
-
 # Global Sales & Customer Performance Dashboard
 
 ## 1. Project Overview
