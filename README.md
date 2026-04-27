@@ -1,7 +1,7 @@
 # Global Sales & Customer Performance Dashboard
 
 ## 1. Project Overview
-This project represents the final capstone for **Case Study 14**, focusing on the development of a comprehensive business intelligence solution. The dashboard provides a high-level executive summary of global sales performance while allowing for deep dives into customer demographics and product-level profitability.
+The dashboard provides a high-level executive summary of global sales performance while allowing for deep dives into customer demographics and product-level profitability.
 
 * **The Problem:** A fictional global retailer struggled to unify transactional data from multiple regions, resulting in delayed reporting and missed opportunities for regional growth.
 * **The Solution:** An end-to-end Power BI implementation featuring a refined Star Schema, custom DAX measures for comparative analysis, and a high-accessibility design theme.
